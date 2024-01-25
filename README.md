@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 i'm Migel
 
-<!--
-**MiMGell/MiMGell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i like c++
 
-Here are some ideas to get you started:
+here's a prove
+```cpp
+#include <iostream>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main(void) {
+    std::cout << "Hello, World!\n";
+
+    return 0;
+}
+```
