@@ -2,7 +2,7 @@
 
 i like c++
 
-here's a prove
+here's a proof
 ```cpp
 #include <iostream>
 
